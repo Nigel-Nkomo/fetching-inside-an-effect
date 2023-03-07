@@ -27,7 +27,6 @@ function App() {
       </select>
       <br />
       <hr />
-      <br />
       <p>
         <i>{bio ?? "Loading..."}</i>
       </p>
